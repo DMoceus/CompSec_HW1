@@ -1,0 +1,11 @@
+David Morris
+Computer Security
+Assignment 1
+Due: February 19, 2015
+
+1:
+	A = 11
+	B = 6
+	CryptText: QJKES REOGH GXXRE OXEO
+	PlainText: IFYOU BOWAT ALLBO WLOW
+	Decyphered: If You Bow At All Bow Low
