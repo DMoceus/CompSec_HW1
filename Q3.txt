@@ -1,0 +1,7 @@
+P0 = IV ^+ D(C0,K),
+P1 = P0 ^+ D(C1,K),
+P2 = P1 ^+ D(C2,K),
+...
+
+CBC Mode can encrypt the same plaintext(in different positions) to different ciphertext
+Even if the encryption process garbles one block, with the correct keys the cipher will only lose two blocks, and everything after that will still be valid.
